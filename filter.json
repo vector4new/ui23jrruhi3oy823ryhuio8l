@@ -1,4 +1,12 @@
 {
-  "offensiveCores": ["ass", "fuck", "shit", "nigg", "bitch", "rape", "fag"],
-  "offensiveSuffixes": ["er", "ers", "ed", "ing", "s", "es", "ly", "ish", "ness"]
+  "offensiveCores": [
+    "ass", "fuck", "shit", "nigg", "bitch", "rape", "fag",
+    "cock", "dick", "pussy", "clit", "tits", "cum", "hoe",
+    "slut", "dyke", "tranny", "kike", "spic", "chink", "twat",
+    "whore", "faggot", "bastard", "damn", "hell", "crap", "piss"
+  ],
+  "offensiveSuffixes": [
+    "er", "ers", "ed", "ing", "s", "es", "ly", "ish", "ness",
+    "dom", "age", "ful", "less", "able", "ible"
+  ]
 }
