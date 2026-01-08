@@ -8,8 +8,8 @@
   "offensiveSuffixes": [
     "er", "ers", "ed", "ing", "s", "es", "ly", "ish", "ness",
     "dom", "age", "ful", "less", "able", "ible"
-  ]
-  "leetmap": {
+  ],
+  "leetMap": {
     "4": "a",
     "@": "a",
     "3": "e",
