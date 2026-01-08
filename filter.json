@@ -1,1 +1,24 @@
-{"offensiveCores":["ass","fuck","shit","nigg","bitch","rape","fag","cock","dick","pussy","clit","tits","cum","hoe","slut","dyke","tranny","kike","spic","chink","twat","whore","faggot","bastard","damn","hell","crap","piss"],"offensiveSuffixes":["er","ers","ed","ing","s","es","ly","ish","ness","dom","age","ful","less","able","ible"]}
+{
+  "offensiveCores": [
+    "ass", "fuck", "shit", "nigg", "bitch", "rape", "fag",
+    "cock", "dick", "pussy", "clit", "tits", "cum", "hoe",
+    "slut", "dyke", "tranny", "kike", "spic", "chink", "twat",
+    "whore", "faggot", "bastard", "damn", "hell", "crap", "piss"
+  ],
+  "offensiveSuffixes": [
+    "er", "ers", "ed", "ing", "s", "es", "ly", "ish", "ness",
+    "dom", "age", "ful", "less", "able", "ible"
+  ],
+  "leetMap": {
+    "4": "a",
+    "@": "a",
+    "3": "e",
+    "1": "i",
+    "!": "i",
+    "0": "o",
+    "$": "s",
+    "5": "s",
+    "7": "t",
+    "+": "t"
+  }
+}
