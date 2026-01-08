@@ -9,16 +9,16 @@
     "er", "ers", "ed", "ing", "s", "es", "ly", "ish", "ness",
     "dom", "age", "ful", "less", "able", "ible"
   ],
-  "leetMap": {
-    "4": "a",
-    "@": "a",
-    "3": "e",
-    "1": "i",
-    "!": "i",
-    "0": "o",
-    "$": "s",
-    "5": "s",
-    "7": "t",
-    "+": "t"
-  }
+  "leetMap": [
+  {"key": "4", "value": "a"},
+  {"key": "@", "value": "a"},
+  {"key": "3", "value": "e"},
+  {"key": "1", "value": "i"},
+  {"key": "!", "value": "i"},
+  {"key": "0", "value": "o"},
+  {"key": "$", "value": "s"},
+  {"key": "5", "value": "s"},
+  {"key": "7", "value": "t"},
+  {"key": "+", "value": "t"}
+]
 }
